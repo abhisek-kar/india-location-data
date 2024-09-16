@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MHD01",
+    "name": "Mumbai",
+    "stateId": "MH",
+    "blockIds": ["MHD01B01", "MHD01B02"]
+  },
+  {
+    "id": "MHD02",
+    "name": "Pune",
+    "stateId": "MH",
+    "blockIds": ["MHD02B01", "MHD02B02"]
+  },
+  {
+    "id": "KAD01",
+    "name": "Bangalore",
+    "stateId": "KA",
+    "blockIds": ["KAD01B01", "KAD01B02"]
+  },
+  {
+    "id": "KAD02",
+    "name": "Mysore",
+    "stateId": "KA",
+    "blockIds": ["KAD02B01", "KAD02B02"]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "MH",
+    "name": "Maharashtra",
+    "districtIds": ["MHD01", "MHD02"]
+  },
+  {
+    "id": "KA",
+    "name": "Karnataka",
+    "districtIds": ["KAD01", "KAD02"]
+  }
+]
